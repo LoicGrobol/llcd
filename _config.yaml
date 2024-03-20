@@ -19,9 +19,9 @@ name: "L. Grobol"
 timezone: Europe/Paris
 
 # Hosting
-url: "https://loicgrobol.github.io/"
-baseurl: "/llcd/"
-repository: "loicgrobol/llcd"
+url: "https://alvabet.github.io/"
+baseurl: "/alvabet24/"
+repository: "alvabet/alvabet24"
 repo_branch: "main"
 
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
