@@ -39,6 +39,8 @@ jobs:
   # Deployment job
   deploy:
     permissions:
+      contents: read
+      pages: write
       id-token: write
     if: >
       (github.event_name == 'push' && github.event.ref == 'refs/heads/main') ||
@@ -55,6 +57,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
 
 
