@@ -8,3 +8,5 @@ MD013:
   tables: false
 MD025: false
 MD033: false
+header-style:
+  style: "setext_with_atx"

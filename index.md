@@ -18,9 +18,6 @@ external dimension of variation, better modelling of variation…).
 
 ## Important dates
 
-*Deadlines are given in 11:59pm UTC-12h “anywhere on Earth”.*
-
-- Submission deadline
-- Notification to authors
-- Camera-ready papers
+- Abstract registration: 19 April 2024
+- Submission deadline: 20 April 2024
 - Workshop

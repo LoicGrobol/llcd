@@ -40,6 +40,12 @@ to:
 - The evolution of grammatical categories and its impact on prediction models.
 - The place of variation studies in NLP in the large language model era.
 
+## Submission
+
+Submissions take the form of abstracts of up to 500 word (not including
+references) abstracts. They must be fully anonymous and are to be
+uploaded at <https://easychair.org/my/conference?conf=llcd2024>.
+
 ## References
 
 - Beck, C., & Köllner, M. (2023). « GHisBERT – Training BERT from scratch for
