@@ -5,11 +5,6 @@ permalink: /cfp/
 Call for papers
 ===============
 
-This workshop aims at exploring bilateral contributions between Natural Language
-Processing and variation analysis in the fields of morphosyntax and syntax, from
-diachronic and diatopic perspectives but also from genre, domain or form of
-writing, without any restriction on the languages of interest.
-
 Access to sufficient amounts of data and their quantification, in order to
 detect the emergence of new variants as precisely as possible, and the recession
 or even disappearance of others, is a precious tool for the study of variations,
