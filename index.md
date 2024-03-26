@@ -2,7 +2,7 @@
 author_profile: false
 ---
 
-The first workshop on Analysis of VAriation for BEtter Tools
+The first workshop on Analysis of Linguistic VAriation for BEtter Tools
 ============================================================
 
 This workshop aims at exploring bilateral contributions between Natural Language
@@ -20,4 +20,4 @@ external dimension of variation, better modelling of variation…).
 
 - Abstract registration: 19 April 2024
 - Submission deadline: 20 April 2024
-- Workshop
+- Workshop will be colocated with LLcD 2024, 9-11 September 2024 in Paris.
